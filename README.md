@@ -1,3 +1,3 @@
-#CS2B01 Platform
+#CS2B01 - Desarrollo Basado en Plataformas
 
 ## Andres Riveros
